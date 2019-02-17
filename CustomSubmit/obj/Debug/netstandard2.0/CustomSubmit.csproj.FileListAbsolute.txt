@@ -1,0 +1,16 @@
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\CustomSubmit.deps.json
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\CustomSubmit.dll
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\CustomSubmit.pdb
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\Sitecore.ExperienceForms.dll
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\Sitecore.ExperienceForms.Mvc.dll
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\obj\Debug\netstandard2.0\CustomSubmit.csprojAssemblyReference.cache
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\obj\Debug\netstandard2.0\CustomSubmit.csproj.CoreCompileInputs.cache
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\obj\Debug\netstandard2.0\CustomSubmit.AssemblyInfoInputs.cache
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\obj\Debug\netstandard2.0\CustomSubmit.AssemblyInfo.cs
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\obj\Debug\netstandard2.0\CustomSubmit.csproj.CopyComplete
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\obj\Debug\netstandard2.0\CustomSubmit.dll
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\obj\Debug\netstandard2.0\CustomSubmit.pdb
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\Sitecore.Analytics.dll
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\Sitecore.Kernel.dll
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\Sitecore.Mvc.Analytics.dll
+C:\DriveD\Practice\CustomSubmit\CustomSubmit\bin\Debug\netstandard2.0\Sitecore.Mvc.dll
