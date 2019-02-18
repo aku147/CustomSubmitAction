@@ -1,0 +1,18 @@
+﻿@using Sitecore.Mvc
+@{
+Layout = "~/Views/MvcOuterLayout.cshtml";
+}
+<nav class="navbar navbar-inverse navbar-fixed-top">
+<div class="container">
+                  <div class="navbar-header">
+                             <a class="navbar-brand" href="#">
+@Html.Sitecore().Field("title")
+</a>
+</div>
+</div>
+</nav>
+<div class="container">
+<div class="row">
+@Html.Sitecore().Placeholder("main")
+</div>
+</div>
